@@ -1,0 +1,21 @@
+body {
+    background-color: #eadacf;
+}
+
+.sections a {
+    color: red;
+    text-decoration: none;
+}
+
+.foraging p {
+    display: block;
+}
+
+.foragingMay2020 img {
+    display: inline;
+    padding: 10px;
+    border-color: #eadacf;
+    border-radius: 10px;
+    width: 200px;
+    height: auto;
+}
